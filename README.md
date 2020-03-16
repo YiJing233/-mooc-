@@ -30,7 +30,7 @@ Chrome/Firefox/Edge：
 
 不要在意上面的红色警告文字，将mooc.js文件里的代码粘贴到最后的 `>` 行上按enter运行
 
-![mooc3.png]https://raw.githubusercontent.com/YiJing233/-mooc-/master/src/mooc3.PNG)
+![mooc3.png](https://raw.githubusercontent.com/YiJing233/-mooc-/master/src/mooc3.PNG)
 
 这样，所有分数就都是最高分，点评部分也都自动填充了
 
