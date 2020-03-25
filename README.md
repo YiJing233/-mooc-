@@ -22,15 +22,15 @@ Chrome/Firefox/Edge：
 
 打开网页的互评界面是这样的：
 
-[![8J0DLd.png](https://s1.ax1x.com/2020/03/16/8J0DLd.png)](https://imgchr.com/i/8J0DLd)
+[![mooc1.png](https://raw.githubusercontent.com/YiJing233/-mooc-/master/src/mooc1.jpg)
 
 按F12，打开开发者模式，点击console控制台
 
-![8JBftx.png](https://s1.ax1x.com/2020/03/16/8JBftx.png)
+![mooc2.png](https://raw.githubusercontent.com/YiJing233/-mooc-/master/src/mooc2.PNG)
 
 不要在意上面的红色警告文字，将mooc.js文件里的代码粘贴到最后的 `>` 行上按enter运行
 
-![8JsFf0.png](https://s1.ax1x.com/2020/03/16/8JsFf0.png)
+![mooc3.png](https://raw.githubusercontent.com/YiJing233/-mooc-/master/src/mooc3.PNG)
 
 这样，所有分数就都是最高分，点评部分也都自动填充了
 
