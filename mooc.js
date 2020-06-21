@@ -1,5 +1,5 @@
 document.querySelectorAll('textarea').forEach(e => {
-    e.value = '思路清晰'
+    e.value = '思路清晰';
 })
 
 var list = document.getElementsByClassName("s")
